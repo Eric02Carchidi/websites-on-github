@@ -1,2 +1,1 @@
-# websites-on-github
-Week 3 Lesson: Websites on GitHub
+<h1>It works!</h1>
